@@ -1,0 +1,2311 @@
+{
+  "id_nortag": "-476944266",
+  "index_page": 0,
+  "name_parent": "Animal",
+  "name_cl_nortag": "Australian Shepherd",
+  "total_img": 163,
+  "total_page": 0,
+  "hc_lt_alb": "2017919304",
+  "hc_lt_data_img": "2033676031",
+  "hc_lt_nortag": "207589150",
+  "hc_lt_sptag": "",
+  "lt_alb": [
+    {
+      "id_alb": "1965718044",
+      "name_alb": "Animal",
+      "total_img": 13332
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_876769_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidKJtF51ut1SOoLfH7SlVN63HBS5IdeS5DLGgUUrcSFL5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidKJtF51ut1SOoLfH7SlVN62HBDUGygNO6Lo/YyCzKDY5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_997682_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie+Dc2VD0bu4aXUyQcPpKXajg75Y3kNNa3UrKuiIWTitZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie+Dc2VD0bu4aXUyQcPpKXaYoaiToil9f+VqKbNEzPtHpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_992217_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidqr4LQDrLfp+k2fDd9W5/5/YN4H7QcLQKjz5+cLSiDAZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidqr4LQDrLfp+k2fDd9W5/5uOIDd7lbidMtvnj+11csa5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_839367_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifSJu0fK0buOuTiEStoZOMUWpuXoWtUGwnIQOSxXrSZ0JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifSJu0fK0buOuTiEStoZOMUvsu2U4y5e5mFEVJmyG/t6JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_963141_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieCK0J0sk6YhYxUkiUwivYVnuVboQUcIY2223pOPenLKpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieCK0J0sk6YhYxUkiUwivYVKKYRsbVyQD7Z22YaB1zWXJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_922147_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifBH+1+/L6rCx+Pm8Fvwp1IQiPMMZu1pSWgO6S24eysMJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifBH+1+/L6rCx+Pm8Fvwp1ImwAScXKQau8aob7Qq23teZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_948458_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid5vpnbNWxIoeckXn7y8aq6Y/kz1ubIrGUYuEG35NHO65Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid5vpnbNWxIoeckXn7y8aq68UwtnOywKOCj0SHTDXtGVpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_997834_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif8j8DwrJrSiwmr8x6coJp1SyFoUYhjbs72F8DNmKv5bZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif8j8DwrJrSiwmr8x6coJp1BQbkAqq5gfpirALIyCcM6pVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_958196_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieqY6IDjRsZKAtXNB2rEr6b77IT5WEGnwgCnpS2uB0PAJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieqY6IDjRsZKAtXNB2rEr6bUdLBmRqE9VCcx2GdSubzh5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_879523_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicb4LoFr18mQSWTCOXhEHXos3kiDUf56xB1FOn7nmKWZZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicb4LoFr18mQSWTCOXhEHXosorg5HAHgLhDk3GFooglY5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_919693_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifJPnFf5E67EdMZw4OsFod/T52b1Uhjlf/Uu19X3IV92ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifJPnFf5E67EdMZw4OsFod/fNJ0yY4ywxcnL435aFTl2JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_956895_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieTiGzg4YFs9jsylWPMBzqADbbIhC+uRFa61+p/m5T+eJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieTiGzg4YFs9jsylWPMBzqAuTDnhjNR6fst0kL7iEGD05Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_982504_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicjwxZuH7Mcbj2D1HusmJP84cW0z2IApXZnmPCas5SB7ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicjwxZuH7Mcbj2D1HusmJP8cmfa4q90s+hRsYqlKkDZbJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_738445_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiichS4rKCNUCWx6CfqSinfLPImWJnEJwGcedjCVTQK7XDJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiichS4rKCNUCWx6CfqSinfLPi3horR5f+EINU1B3SVMYQJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_774299_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidWHlCFETbtpq7W6qa9OXLw4BRAByZjqWKqmvGJsMvZlZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidWHlCFETbtpq7W6qa9OXLwhBvvf5jxA6d6+MCjxrp+oZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_917417_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicV6MJtUb6JPvwM0eyPQrmOJyAWUeH/GhGhlwDFv3YJsJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicV6MJtUb6JPvwM0eyPQrmOE9BGS6h/inrqkwpy8JGf3ZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_706600_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifagXmJuQDbvLqin4HMDhekK8n+CL6oM9Q9RNFHpncrG5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifagXmJuQDbvLqin4HMDhek4wS3vYu+mEmrrlNZqIrb+ZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_959340_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicfWEVdI2OhyBtHYYFZuEk1M1xqElnKZ2XDNZiO+jq9p5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicfWEVdI2OhyBtHYYFZuEk1yYP1rrpjTsogMOeXVEdMIpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_875700_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicPEr1Rd7a+xj4sBFMpvMoTa4fZLBJDcuxXqb4h7L/KZpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicPEr1Rd7a+xj4sBFMpvMoTlOHz7zGAh4Tc46JV9SjFHJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_650992_crop_1_left",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifpHLtt2y5EQsysGfh6BQ0smnZle1cLRqi2UX58RJLR2pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifpHLtt2y5EQsysGfh6BQ0sPAIULep5/Did0Rw48e6+lJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_790274_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiierK0GlTTURPDbr08Ii+EPLMKef2yFEZgaeWOMk1G5jMpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiierK0GlTTURPDbr08Ii+EPLJ2mf6JnmXXQRff1Gb5krLJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_868618_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifh7cOlVPy9qwFLfm++nr4zUg4pwI1ByvDska49yXzxBpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifh7cOlVPy9qwFLfm++nr4zvnutP+KMnkG0pxnJYQCthpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_882178_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicj9XtRgymBFypDS9tQQUvDxxtJa7UWW4hqiEx2VKpyXJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicj9XtRgymBFypDS9tQQUvDpi6gHn8B7bVdSWkblR++WJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_998861_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifuB5P5l25q2QL1DUnstt6h9ZDf2wnqAr81UBTC9jkVspVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifuB5P5l25q2QL1DUnstt6hoIWk6b2BgJigTUJkuVogv5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_912500_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifabA8WKyEyGCZQo8RodIqxl0o60PixCTJ/hJF3otbL0JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifabA8WKyEyGCZQo8RodIqxHUCFa+OpBuTRwLjjXJhve5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_957122_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiek+iKP+5vWR2DgmA4GygATxjmn0GgFNZBtSFTwt7raCZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiek+iKP+5vWR2DgmA4GygATJZ/fnOqK5cAu9cPsv9BL3JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_889371_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieHDzeF4L6/tvVzxZ/XwXtqTqutqMNN4A6VDXGPkOBYYJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieHDzeF4L6/tvVzxZ/XwXtqnwTljM0wNdrV7WOZozEUdZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_968517_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieky/gmJ52ZC3zNF1Fl+BTDYBQjy7SnkT73p5C1K5MpaJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieky/gmJ52ZC3zNF1Fl+BTD+jnJUyeqQpSxQwjepRpp05Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_866746_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid2DiUhf02xkNC6fWuqHb9LoU2IVjYE1XVS5q51MuKpXpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid2DiUhf02xkNC6fWuqHb9LGQgjbnji/6sgBtCKijgwW5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_651124_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieHP1JE2QXICS0Rp53L/Y5f8xzxqNR94L54iQMTdTolhpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieHP1JE2QXICS0Rp53L/Y5fBFKPBYnTPhL34RpmT5zRyJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_786996_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidW+US9JRE7/B1PbYHR0pG2NUQ5clzVi7HxFY2FiZkLP5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidW+US9JRE7/B1PbYHR0pG2ukrt69aUTUjk22dKN7VWNpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_790402_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicxCHtrRMiLZFRNkpflFf0RydO/DM0l02HQyPYvzwEONJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicxCHtrRMiLZFRNkpflFf0RWog9W6knvlxDEBGYZpWyj5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_801783_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifROC/xbbd7QjkbArgoMUmA4iT5Zld+6N6CI9q4FUaVxpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifROC/xbbd7QjkbArgoMUmAkJIujHGILibm2d61tlCDHpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_819598_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidUJf8xeGG+OKnhXQJtfL5qV4fVdW5hbDokjx1IZtSTDZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidUJf8xeGG+OKnhXQJtfL5qjW8mEiwaiCr5M/iHJoaNuJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_650991_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie9rs5oyTZqDInKCR//qhKPe/lpwg1avrmIRHgP9Fqy7JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie9rs5oyTZqDInKCR//qhKPidwm3kQv7wIMfGCi/DFM2JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_931574_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicHvXPhTB67ZNbhkuRnoJHDgKvKodrCxovnyA5sv6Ww55Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicHvXPhTB67ZNbhkuRnoJHD3It28IrZUH/xXn7Jds8NCpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_856186_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifGdUlGKmbYLW6OB4i+/3Jift4oQLXPmGAgaF/zClBxkpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifGdUlGKmbYLW6OB4i+/3JiAQ35wtBapzsWf/6rORzyMJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_785140_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidrYmW4xD1JaoRgYU6JUH4T0JIdxIfXHQoJcOwf6xTDV5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidrYmW4xD1JaoRgYU6JUH4TapYvvY+xj+E/PTCs3Ec5HpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_1000889_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiics6vRzB7W5zndVQQLZXRkZ+8+yv1X5CHkk4DXEdtTOKpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiics6vRzB7W5zndVQQLZXRkZoeBi/h74W34C/qJcVZMUaZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_650993_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiff5lnhsZ5k/H1Wp/EPxNGhFcjMxOAXfua3Oqipk8HOepVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiff5lnhsZ5k/H1Wp/EPxNGh/Zp2WgOD9/q6swIi27aV+5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_869630_crop_3_right",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieRTJ7hfuEBFwLn65p5d+N3BohiYFQwJwerTRBpZhlLQ5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieRTJ7hfuEBFwLn65p5d+N3mTXdRDhdMLV9tsjmX8KngJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_905441_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidTzHXQmXWNpFLdyYO5UeAKdcUaOIpRvHc9akCP1MUcmZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidTzHXQmXWNpFLdyYO5UeAKa1S/jJeyuJE03a18+k3tK5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_911909_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifuEBewyyWbB1qJ/0Jk82L/xVlERgOBJZ6YlBp17XYxBZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifuEBewyyWbB1qJ/0Jk82L/y5K0AbXtcLFp5vrbLqw43ZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_876922_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieFcV6j16Vn7fOnUCQPNC0e8J187Z4epfj2owGYcXNnR5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieFcV6j16Vn7fOnUCQPNC0e9qfiHwjI5QEVi5mdgqIX1pVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_882990_crop_3_right",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie/lrmXI+w6bQGmjFsAFvTFIG4tlk/nfs+qVRwR3bI/rZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie/lrmXI+w6bQGmjFsAFvTFKyAfHSNXRWxHOX17jvYtOZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_997674_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifUEL2FMvIabcGlcFCzw90XdNPmhLtak2RmZ7s095o+6JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifUEL2FMvIabcGlcFCzw90XwxIIyyfDKLMySaB9/627ypVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_906124_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidF4dqHPQQOxVZuIqvNwz7sjjCOY1DcCQib6k/OgyKBa5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidF4dqHPQQOxVZuIqvNwz7s/TKiUy47mpemkKR2W1IBUJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_854469_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicj2i32svzAowJLMg0GNnMbOD+UnsfQC4w479Ryeza12JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicj2i32svzAowJLMg0GNnMbJJqFxE0SevxOrKYo1XjKR5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_650992_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieo2lXPurogDLiikUfD0MtshfXUwYu39On/Q22WEf7XvZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieo2lXPurogDLiikUfD0MtsXRCWVa6q95dEoyGyUh84PZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_949118_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicEQw0CVv6HF89yTE+XBU44I6kld+7ITnrkwoSDjqZPFJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicEQw0CVv6HF89yTE+XBU44jkK3Tz4fPK+c4WHrqdJ4NZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_828091_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic8Y4VmLKJG/v70FdRbKJuJDqNA6NqaUvFJL83LfC7TiZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic8Y4VmLKJG/v70FdRbKJuJuhUKT51E6P/87A2C4buAgpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_825319_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie4SklM1hDe3wjxHjZFLA2NJ98D1kZJTyqU9E2eCKbZcpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie4SklM1hDe3wjxHjZFLA2NBM3WYvJb8DBOXYvyua+KaJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_912963_crop_1_left",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidqoRqeBuQ/C3AaDQgiVsDdOBDHkVGNqW97uJUSCtw/aJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidqoRqeBuQ/C3AaDQgiVsDdIdFSE3Vbh6iBAP9+w+gBuZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_863198_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidcHUh4OTDroECpEA1T91OW1U7qT7vZfw8ANbTkoNueNpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidcHUh4OTDroECpEA1T91OWckRj+Pue8C57OGaiCT9B/JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_849053_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicQb2rp+uASgUIF7oQQnO6mgQAFiQarqdhIaUSG/RUdAZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicQb2rp+uASgUIF7oQQnO6mpxkoRBOdHqm4ltvobZwSKpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_651348_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieh03x866UeUtzIDA00/eW0iajVW4xbpF1j4MtWeO5IqZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieh03x866UeUtzIDA00/eW0z5jduPqR04/fgVKa3Vbxc5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_900319_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid5u7ndp2nCgDBv4pA7jeX3715QUXfn7hhuOBk6ZOn2a5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid5u7ndp2nCgDBv4pA7jeX3qdHtqfJC4Fpu/Vsa+HspbZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_997672_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif0ab6GfngMt+DjEoD/J9hgbxbOWUQDJ12sdaiRVjuJK5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif0ab6GfngMt+DjEoD/J9hgp+7COsvNmItBZaCA/Xhf75Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_999306_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic0sVOvNhbJEfRxIlqUrfbCu4tx9rGoPJyZVgh+CD2AY5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic0sVOvNhbJEfRxIlqUrfbC1ohkBzknv7xseOaIZDVT55Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_903752_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie6A5JNzMZ1tWJkNG9zUg8VPYy/inHLXtceWyBc+vo965Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie6A5JNzMZ1tWJkNG9zUg8VcgC6BTg0l62quBLfWbhTtpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_650994_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicL0jgld028e3SBHUtoHmuXRpPgJjbcPGcVlEm4lgipZJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicL0jgld028e3SBHUtoHmuXoTgp6PC/zNgwQJgJKLQzaZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_765116_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifBGUMf1rNHU3KbyBvnqeCYTDu/CrKneSrEC6KIU06lAZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifBGUMf1rNHU3KbyBvnqeCYaALVmyDsvcrXl9rOL4VL85Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_872473_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiief+2QBI7oRYrf88emYep2/Kdr+A7EbYExWtE1v3hSVKpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiief+2QBI7oRYrf88emYep2/UO15Bh4iMp0/lgBX52uxaZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_911242_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic7IPHTt5E2MJZENFT5fUERUBDi0wKZtyia3J8uFH2qyJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic7IPHTt5E2MJZENFT5fUERT/r2gw54I1DyVmch2b5bHZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_709051_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiesl0P2CeZPvlv4ki8DyNwg12gbr43IhjPUZquM+UZ6jpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiesl0P2CeZPvlv4ki8DyNwghOtrcvOgW6SEL83m3wYk2pVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_782390_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieJlepdfwFHha8ZUfnjZ0bKVTvk0o26LLBHglgcP+/gEpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieJlepdfwFHha8ZUfnjZ0bKn1H/HL25wPJROdlNC3mI/ZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_736558_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic6YybmKLJNitylSUTCzM2I22CwSU4BOJqotThrhj2Ij5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic6YybmKLJNitylSUTCzM2ISkZjriK8D4Ioxd1kpXwmeJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_876474_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifZ/e7S6E5fESfiG587SCvFx9H2T9As0s57APHUYhLTtJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifZ/e7S6E5fESfiG587SCvF5yAALOncloXUlCKvb5D25JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_812679_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicHfYLUWNzZbBtyhbdTIPZ9cx/mqYlvh6uMtBQmWPFa9JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicHfYLUWNzZbBtyhbdTIPZ9RbGaPtHBM84TzWfu//2X9ZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_875698_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiedbcVLX5x4/3zX1XoTchipjufhNKizgZGxr3q7+lhjSZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiedbcVLX5x4/3zX1XoTchipauLR50M5daik5tprXEjpGJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_903479_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiida4SAflhaHxD5xbtLclTqEL7CHl6t8/iEVWCfJBWBH/5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiida4SAflhaHxD5xbtLclTqEHZnsnL5Qb+6igrqQ3Pj3tJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_835300_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiewQxKKKJc9jt6uNYEFvHwJghzW1aoBp2RS3KgG5GE72JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiewQxKKKJc9jt6uNYEFvHwJ24T2N2Irci+ucNXV1cpwcJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_787519_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiift1p20V1aslrK58HJuw/kMl+3enHog2eNo6m3uPCtgH5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiift1p20V1aslrK58HJuw/kMIhhjb7N8NUjtTynJJ1OltZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_906109_crop_1_left",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie7OTFkcGV1Ii3/Fflfq6GypUg+FelIP6j9IBt+ina/AZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie7OTFkcGV1Ii3/Fflfq6GyhIX5i4pou/XAA98ahoO1jpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_968518_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicHC/apt2idFkszs2FZ6P9MHEuphDOKzeeA0FfCTKmkRpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicHC/apt2idFkszs2FZ6P9MtSfyDFLVzKEpH5fHVuJW8pVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_924806_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid7OcUX1j1SAYwZ9aGItM2hav2b7Zvkr7Dff+Pg3kO+lpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid7OcUX1j1SAYwZ9aGItM2hoS7fNYpzRTKKuEinFEPLHpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_831671_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifWBJDy2jS4zfC38clJE4GnAOwweqchg2eQ/PKPxpV3EZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifWBJDy2jS4zfC38clJE4GnQWUddZtcCeH5U8sLqq3NgpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_867501_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicEyyQ8EVd/BnHX0zFc/cctDVYbUOdH4S9lm4sQhdJeQ5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicEyyQ8EVd/BnHX0zFc/cctEg3+sIUH+WqS0GuGCv+TLJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_848177_crop_3_right",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid+dVAowtp1gGYAWXhPBQ9tObxRq+a7ndJKbPUpdzFFDJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid+dVAowtp1gGYAWXhPBQ9tQ9GeblFN+5iQ8D+9KbTcn5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_853259_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicMf2Vz2CeM13/TLgB64HhftNxMFN7GZFiym4DWNIrp6JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicMf2Vz2CeM13/TLgB64Hhf5hSTrXNwuu0tlvjLyCtHW5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_944485_crop_3_right",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif/p/cDBAOa3q24nBVgzM9HsbbL2MLpcBBuYhHbl/8cGpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif/p/cDBAOa3q24nBVgzM9HiD7f4hitMdn6xR1PdtF8YJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_1000575_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiemuxDIe1s1OeNGpbBaMOfRX4+MU4AkwuecvizPxQJo/pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiemuxDIe1s1OeNGpbBaMOfRreWsMQfQbsqAoXCBIxE4J5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_778385_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidSg+HF5byIP6zYWZ7Tkn4P3tjcvKTq1SlklLeYyog8Z5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidSg+HF5byIP6zYWZ7Tkn4PH+eF/d1rXQiwkb2Ait8/M5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_753810_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifPK6m5r0npDv7fSkHjzk5iYbyoXfWELLoqwLh4cToufZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifPK6m5r0npDv7fSkHjzk5iKODCF0Wq/UwUVEaBhrD8KJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_912963_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifJVvW1fPm36SGrp3sJR5U0kEbheGqN/NeG/11m65QiopVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifJVvW1fPm36SGrp3sJR5U0QK01Fu3SeJOY3/eiC/53oZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_736499_crop_3_right",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid0zwyNJTZYh8j2bph/6Bga8QwPk15Pkrzun2YDj9JJHJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid0zwyNJTZYh8j2bph/6BgaO0HiPllVX4nWxrQquboi4ZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_852191_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicTJcJt79sqIGki68QD1qM0538iIjEz7gQ3zzoZLgyeP5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicTJcJt79sqIGki68QD1qM0wLFq9LkKnYV+vPc9ujb+l5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_635590_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic16psqD34FGgyGcqVE0725pcEyPs97lF4WM3m/9PeelpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic16psqD34FGgyGcqVE0725Gd5n3vQ1cwu0JDkvKELEr5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_876603_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieZgPsjQaaJobzbmsWLvcnAK8/Q92xtksCdyf2BfA0vfpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieZgPsjQaaJobzbmsWLvcnALD0tK3xctSHOuC0fRwYKlpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_863199_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicOxfILq0QehQwRWnrVDc5v+obU6HzmYooRexk0qF6NI5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicOxfILq0QehQwRWnrVDc5vx30BroVHIWPepyulNOXe6JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_870350_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicwHc4ZmeDEAqb7MABA8ZqcZQNHUuYP3Kew7zfRXcdQ+ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicwHc4ZmeDEAqb7MABA8ZqcLcL0C1Px9wNuJFrUUHpE+5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_863473_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidw3Va+rI0fXhreQpHDRjyvZh8n/nTAekPt2Av93F+gmJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidw3Va+rI0fXhreQpHDRjyv8us0zL5sce0lv4Ogu8Nd9JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_694770_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiideI6aZGDbrKWdnhmSQBe950HN2cPXYQhgQ4e4y6pa0LpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiideI6aZGDbrKWdnhmSQBe95fwpkHxKXFAkPFLNJ4mb9DpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_918610_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieMDwh4hxSAvHbeZ7Kv2+h7A4R2UlvFYXgIgtq8wmPEFZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieMDwh4hxSAvHbeZ7Kv2+h7x93kcsGWAYna472CrLteYJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_909809_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifhNFaKvgtm4lpUPW+XQ3f67JL2VbxW+q1Bwl4ANTNMapVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifhNFaKvgtm4lpUPW+XQ3f6gZImgSYmuqCh6iNlZTn0L5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_715226_crop_1_left",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid6eXCldXU/GMQtTa/j9aqSMg09qIgOn8rN36scgDgrp5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid6eXCldXU/GMQtTa/j9aqSVki/dXpowko55GgKuDG7YpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_650869_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicDZhPETiFKXcF9gmrIJpi3zHy5uJBvbrtIQMPVWXF8rpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicDZhPETiFKXcF9gmrIJpi3EUiv7E04SFgoolbGMdnlhpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_428139_crop_3_right",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicLoD7aRTLlzeFUDRlUKfmYdhieEZZH+xrt+0176Jf24ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicLoD7aRTLlzeFUDRlUKfmYH3Y384JnorW1lqZiszHV8pVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_942330_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieF8w6DQBFqSzKglfwby/to81WxawKLShLwmA/BJUT8yZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieF8w6DQBFqSzKglfwby/to89bT7Mr4KZvViEqs+4PCtJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_650910_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif/sw8U4XAAln/JJobvZ0VAoJkr0i26l1s+iOA/f3yagZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif/sw8U4XAAln/JJobvZ0VAvg0kG1Srd8HCrrVxFHHQuZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_882990_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifTa7Z+71WsZcU/q6YnNk4s4MKTjfdnRTG9w8d0T1vmg5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifTa7Z+71WsZcU/q6YnNk4seFrFSa388VnFbuarXi//kpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_721254_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieVTdmOLtXJkti9XSXrypWxCzrLJxo6UTpsJbhRXoR2+5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieVTdmOLtXJkti9XSXrypWxJgrFSwgyJwCuV9+sbkY9qZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_998379_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicwEbsZ+zXSYeTcOIYqVh9uvJotTStGST2uMO13DMs0k5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicwEbsZ+zXSYeTcOIYqVh9u+q/zQe71+DiGjEqeJiREeJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_777584_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicmk/oNZIy0y9b1xfgnQOw7eb/BxmsNumHwU862oI8yO5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicmk/oNZIy0y9b1xfgnQOw7KQ9qHAWkxeCbJRm3UnwqKJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_992991_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiddfmqhCsL04ACCHHi3RmxgqDj+BMj2rJnXXn96inaZwJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiddfmqhCsL04ACCHHi3RmxgQmccZC5Kc8G0SwqA9WTmHZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_708793_crop_3_right",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiet7iMuYIKgX0qUTY/gGIOk0DXTdLVuUJrepxUezKQfUJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiet7iMuYIKgX0qUTY/gGIOkLWwUYDYKYb7ABhYgtOhecZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_651115_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifeieJd1/KuSOAfVeLxPUUCUTFeOpJ+ZVng7QYudydlfpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifeieJd1/KuSOAfVeLxPUUCzJBuaZlGJZFSpwOWUjZc3JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_918955_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif5tqMuQXtdDlnGLRGFlhSv+QaZnc2fJo75+oLpP59fMZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif5tqMuQXtdDlnGLRGFlhSv0v5Q7Eyo+RMKGGlx/nVuKpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_865833_crop_3_right",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiegOKk2LCEKY7pHa7yZ664z+wqIROIyjQTYYPAUyYha4ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiegOKk2LCEKY7pHa7yZ664zmC/a3wycFWmztyjSwf4XN5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_968294_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic5haUH7IU1TPVMB+1Q10A0cZ2pOxefdrWmzDDI/o6jLpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic5haUH7IU1TPVMB+1Q10A02DCbYbBFB6aGczaNignBh5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_837603_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid6lyCQkncc63HE4LKCp8+0hceJfdTb6gWlSR3vYEPluZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid6lyCQkncc63HE4LKCp8+01dyUEVKrq2ugDSN9GWV26JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_868302_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieu9ANEabw9dw6PVgil4Io0YX9Sz5O4kol4EZmP6TuYpZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieu9ANEabw9dw6PVgil4Io0oBiL1O/qmc5BlpVLcRjccpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_865952_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid4c01t29p77jXdTazdJQ3wfKrYc+IIJAdvVH4J8kPiqpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid4c01t29p77jXdTazdJQ3wNOKwAw/fR73FPcFwKDnen5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_856182_crop_1_left",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieWiHAe3yWwcZP3deH13YsrIDu1xUGXUKRlX19B7NOBn5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieWiHAe3yWwcZP3deH13YsrgVqQnnjiYCk4T8EubhN8q5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_914551_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic1RtYK98288NrtWnhcdhHl8ePIAEUF/fsKe5U/IyTBfJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic1RtYK98288NrtWnhcdhHl/OlL7cOGTf02UpyqJ2z4JJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_911917_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifCU+0bK8GzfN+viRlm6qEzitVvW9hYH9vvpvEPJ59itZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifCU+0bK8GzfN+viRlm6qEzQawOO22dvUEcocMbsiNX+5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_957118_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicpAaTLZ4ffGNwiArw+KKOo781IxHMbHcmnaBYKBg2HmpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicpAaTLZ4ffGNwiArw+KKOojt9FDjdcqhyNFCOm+dOirpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_911911_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidLNJNDxdiUN8PxZ6rAErQfqseVF5jxLSpwu88l5nKsP5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidLNJNDxdiUN8PxZ6rAErQfYLL+LJiFpZ2XpQvyNDEyiZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_796129_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifTS5z5ttStSkcw6CgAaDaIC7r/Ny95dyTXB9XSZW9syJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifTS5z5ttStSkcw6CgAaDaIxLljTkfBE5NlPu0IOd5m+pVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_866167_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiclo5xWo06jEWrZkTRJcbFQYgZINdHytNH5oWhzROpBDpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiclo5xWo06jEWrZkTRJcbFQoDuEgB8sUIStEjYHWQiChZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_651129_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiepxtmFG5nE4JVLSzi/35Mguq3i+XLc1Gl/bwfToCGSM5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiepxtmFG5nE4JVLSzi/35MgzZzKwDSIHCNu8GBdA8t2sZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_854849_crop_1_left",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifJuEh/IKJgQDXybj/ZiMHT+7e31WkOYgt9YA7o+Z0VkZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifJuEh/IKJgQDXybj/ZiMHTFvkiEyTC1bpV839YBkcey5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_692125_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifUxftt3LIN0eUChEigG2fDkiBXKLu30SkyP1r0kZqMCJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifUxftt3LIN0eUChEigG2fDZe+QaydNX4Ax4VDykDG195Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_938189_crop_1_left",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic1YLlvhUCrng9e27fDDnhP2EVYAH3Hz5vk5prcsPlsSJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic1YLlvhUCrng9e27fDDnhPrAqka70+S+FSWfHRE0s4NJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_940733_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif0THge0H08ko4dfdR8qgq+yLgj1kzda+imiJ4GAFMjo5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif0THge0H08ko4dfdR8qgq+u/aaRpk0oLMUOCumwQzyGJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_766872_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieKPKcTHEan5AWa/I0h8YCOFYe88NTYaoWD3nZbDM9vpJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieKPKcTHEan5AWa/I0h8YCOObsvMnlcIMqR7tWthozb5ZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_868597_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieB+MR5g3xbBWartqsj0gIsUuCJRTcox1IbtLrZH4xSlpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieB+MR5g3xbBWartqsj0gIs2gOXY9xk5hGIE+fn+r4Jn5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_866841_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiccUyiN0npGaWMGXFntYgVr5sSzGwRQuI3qqxJRJ913bJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiccUyiN0npGaWMGXFntYgVrcKHCOcapVnDhBYfv75z8qJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_959341_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifxu+4wzD+yvLbW3ygfyFivOM8LcxXzVj7Ntb2iAgeAJZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifxu+4wzD+yvLbW3ygfyFivX/0i4/O4YVV0qyyuyv6FkJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_873339_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie0cswoKz0Bdq/DB+iBaxRwTEGWkHQYzlo+rKZtUr8iA5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie0cswoKz0Bdq/DB+iBaxRw8AGxY7qXuMpafckZTNg+mJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_651122_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid3LXzcvOYV/Vf7diOkK7ACf2NNBkwkEo4e5vqxiKZJ6ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid3LXzcvOYV/Vf7diOkK7ACKilpX/HZ9Zfh9ruBXOL/1pVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_650882_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifxbuaMOzPFVNdEmF/FyIa377I38KltXlbMBRVkRrNZ35Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifxbuaMOzPFVNdEmF/FyIa3FNtoLPn6C6GgsrxtBnaKtJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_869630_crop_1_left",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidUG6ypqviOrDx058E9hNDpEREg82r85Z3Ol8SWBTTBlJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidUG6ypqviOrDx058E9hNDppybZExSvewYweTWRP5gsAZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_865037_crop_3_right",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicklTubB7e3nFx+Z/XsNF3mxKxO2RFAPJUtEF5BufY+2ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicklTubB7e3nFx+Z/XsNF3mR0UKk/eBCEbjcGzIgjTA35Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_687212_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidaXaOKZSScM8/Gt2dA1prUERXbDYvBfvxCrp8jgQseEJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidaXaOKZSScM8/Gt2dA1prUfJ23iuQNL4vMEOaML93D3ZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_911912_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiictHii9s3scvDD40KHYWTZm7E1IXn9PtAGGVZO24ym645Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiictHii9s3scvDD40KHYWTZmvnDn5yro4RGY2QGI7cS1xpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_884516_crop_3_right",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicaAybMQKXLZB/Hrst8jOJSahWReEcyPt6TqfJboQNbWJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicaAybMQKXLZB/Hrst8jOJSwNhvI4z++EjvGtzLkhFUuZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_914293_crop_3_right",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiideY/SxsQQlp7UEGtw8irDfH6DolbQ/uYzXM0L0ii5nuZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiideY/SxsQQlp7UEGtw8irDf1EJeYWi8HeSDbhkCU9rh/JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_860883_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifVGJ4IKTj1zp5p39odNv9p/hlJEhcndk31RVVyOT2zEpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifVGJ4IKTj1zp5p39odNv9pm2B+d6RJ2xfPmwttPQvu4JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_797282_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifD7F+cuoAMWP3QV2wsJ0hQEdLc8Zf7dXoaJLUnrS0URpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifD7F+cuoAMWP3QV2wsJ0hQfIlE6q4yoR25JvvcQKPPK5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_790264_crop_1_left",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieZ+PuEFTwGcfYkciNbyEGvo1AUN3Q6CTvzTDP+laKI6JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieZ+PuEFTwGcfYkciNbyEGvp4IATLHR9vQDlEIM4zto05Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_694772_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifJX2Xyes8w+0uyVLRgS0XqU+H2Lb70HEDr05zXe0lZW5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifJX2Xyes8w+0uyVLRgS0XqQJiV95gknzgvP3hgExn4AJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_869338_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieCWLuvZ8KkviqKFNl9RmkcdtabOH8wSN86NFiprNRNvpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieCWLuvZ8KkviqKFNl9RmkcVSE5Vnv9jZSyzi/2yOrbI5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_820242_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicp5djd/iQ8h7o7XOIa7glzD92AUDv1AAGOb+0DVWErH5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicp5djd/iQ8h7o7XOIa7glzVTVw3j2PK98EYOVf/CZhAJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_876132_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidB1RBrh4eOvedCNjnDi6Mi/CmWf93Kan1exUbgLo44U5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidB1RBrh4eOvedCNjnDi6MiXaDnWr4cmxKyqhAgUdQpWJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_709210_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifIArXaYaVtCyfMBVKKaGX4V13AZvOaRlbQqjA5TnegtJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifIArXaYaVtCyfMBVKKaGX4Xe+ZuFzPkxgLSD12kVkXSZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_926175_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicVQhSqw1LEDg8vUNW10WhMWqHBIx7HU9UURnoLgj9+B5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicVQhSqw1LEDg8vUNW10WhMr0fKggTZGKNidh9sQCsrTZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_1000315_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieLe+Z9N3pQn0/4fh1OvRzE80JfL/N6Z/9d44Xb4FDfi5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieLe+Z9N3pQn0/4fh1OvRzEl0GNpqfDpINn+akijZooH5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_999305_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieySUC/n4aJvamaXLYE/S0aBXteFqZbtCUz7OZenQTJSZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieySUC/n4aJvamaXLYE/S0aVusAkvykAbW9edVGHgQQMZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_875568_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiichVsd2o0lSeAXkv+vz5Gs+ImLcoAZUZnFs24BRTn5jR5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiichVsd2o0lSeAXkv+vz5Gs+xuOtp1f1RzUr5b4wBvnSopVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_914553_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicRJKkMCncFUZjY5QzoCRbwrwFBe5glTCKyN4boi2w4IZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicRJKkMCncFUZjY5QzoCRbwZMCF9CLGSG8r86ZKULDLBJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_955318_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid+rN6KgITa4iHvCPCv67kMabJTNqKzlGmcV/hHOKCsm5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid+rN6KgITa4iHvCPCv67kMp9T28i/Kx976WoUU5Bh9g5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_650911_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif46s8OMW642GAZHqjsNPsfFQyZx4+sKXiXzgarENlrbpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif46s8OMW642GAZHqjsNPsfCRMUr5T3r2RI0KpOtotyHZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_911914_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicCMlFQK4Ln6Xus1vQntfOKJqSLLy6FcQSMpfs2J/HmsZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicCMlFQK4Ln6Xus1vQntfOKgu74L7z2PuM02xGJwSgAv5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_924808_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic09wkUHqSB4trNU1t4zVPCIgc67MEwDtou7SlYYPwNepVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic09wkUHqSB4trNU1t4zVPClHo2WxF73S9kRj/9Vce06ZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_997885_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif3EdtorXhsOa7ztZaAgjr+WScEvDKG2MqnwjZkFH5l0pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif3EdtorXhsOa7ztZaAgjr+j7TT9hvVDe/Plz2lEI7m05Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_864629_crop_3_right",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie7cksJUeDNZH6MWFPW2OsdUjQD4+1u8onIgdw6bBKOyJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie7cksJUeDNZH6MWFPW2OsdODw4uff/0c4A7NlDgQTPHZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_888192_crop_1_left",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicy1BIeoRIlf9FotQZtAdr2cWV4kb7mTkoDT2VMJ6ZFGpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicy1BIeoRIlf9FotQZtAdr2H83mRkxgZWHU2sVbhiT1zJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_934212_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifYQomQRYO2XazLovI0l904ZPsFDG71hvVQLuCUr1hT/pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifYQomQRYO2XazLovI0l904tsWx4VW96v2MkpwpVxeM6pVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_877566_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiick2sSTP4ZJ1TQ89hRm8seQuUnt6DjMs26XHV/L3exl/pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiick2sSTP4ZJ1TQ89hRm8seQ5mGsv8od7DhVaWQbUmT74JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_911915_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifQHnVPHx0/NJBVo9J/+x5qsYj/qScE1QL6KcdYBsHzp5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifQHnVPHx0/NJBVo9J/+x5qSlPbvUkUOZlwIxz9dnZUgZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_993332_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiierAG3cc+89i9DEDj8X9r7V6a/CNZXwQuv6diM1BwWvH5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiierAG3cc+89i9DEDj8X9r7VZ+hkYDxMt3yoMSRBPPWB0pVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "52187928",
+      "hc_lt_id_nortag": "-319161922",
+      "hc_lt_id_sptag": "",
+      "id_img": "AustralianShepherd_875857_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifsh9gKQb7SWIldMnXDTD0uMQa3IPvl7GfGZshDzhPXoJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifsh9gKQb7SWIldMnXDTD0uJGQ9LsyxKUQFm7PPL/jSv5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1965718044"
+      ],
+      "list_id_nortag": [
+        "-476944266"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-476944266",
+      "name_cl_nortag": "Australian Shepherd",
+      "total_img": 163,
+      "name_parent": "Animal"
+    }
+  ]
+}

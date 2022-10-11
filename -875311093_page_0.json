@@ -1,0 +1,206 @@
+{
+  "id_nortag": "-875311093",
+  "index_page": 0,
+  "name_parent": "Anime",
+  "name_cl_nortag": "Da Capo 2",
+  "total_img": 4,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "-1168181381",
+  "hc_lt_nortag": "-1539857967",
+  "hc_lt_sptag": "1070347577",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1787819965",
+      "hc_lt_id_sptag": "1098526536",
+      "id_img": "DaCapo2_114483_crop2608_1823993780",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidwgfldAlgPNTHn9YFFPqpOmWy8qNdKED85CKG63Gz1vZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidwgfldAlgPNTHn9YFFPqpOS6Ro+BYl8UZuEO2fZuT0GZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-875311093",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1230434216",
+        "-353024394",
+        "376240968",
+        "1813151526",
+        "1078827483"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1787819965",
+      "hc_lt_id_sptag": "205495799",
+      "id_img": "DaCapo2_244960_crop2608_-1938776520",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicX3dwgsDO9RFji/t72JvORGABgy/XS+0vmQOkxtmLUoZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicX3dwgsDO9RFji/t72JvORiSr7fD4+DvtahzfKmblDLZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-875311093",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-353024394",
+        "1541647243",
+        "1813151526",
+        "-899599709",
+        "1078827483"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1787819965",
+      "hc_lt_id_sptag": "-1030654960",
+      "id_img": "DaCapo2_213224_crop2608_1450947340",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieKuwzAlSFCI6pMuYXA8D+IzcAwlqY+uAxAResg6zWSD5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieKuwzAlSFCI6pMuYXA8D+I4pFnHhjxhyMt8ybk5V+SgJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-875311093",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-353024394",
+        "376240968",
+        "1813151526",
+        "1078827483",
+        "491824726"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1787819965",
+      "hc_lt_id_sptag": "-582973631",
+      "id_img": "DaCapo2_213950_crop2608_1892770201",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidKdWqaXn+MFsH5uFa3tLqgj1mJP6boStbXPF5+kWJoF5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidKdWqaXn+MFsH5uFa3tLqg+19gCQT/3G/owFylLpny4pVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-875311093",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "1545739930",
+        "-1230434216",
+        "117222074",
+        "-353024394",
+        "-260062140",
+        "768898453",
+        "1078827483",
+        "-1358769180"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-875311093",
+      "name_cl_nortag": "Da Capo 2",
+      "total_img": 4,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-1182628656",
+      "name_cl_nortag": "Girls",
+      "total_img": 68557,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "491824726",
+      "name_cl_sptag": "Girls Cute Cool",
+      "name_parent": "Anime",
+      "total": 31431
+    },
+    {
+      "id_sptag": "-899599709",
+      "name_cl_sptag": "Girls Eyes Black",
+      "name_parent": "Anime",
+      "total": 5810
+    },
+    {
+      "id_sptag": "376240968",
+      "name_cl_sptag": "Girls Eyes Blue",
+      "name_parent": "Anime",
+      "total": 25656
+    },
+    {
+      "id_sptag": "1545739930",
+      "name_cl_sptag": "Girls Eyes Brown",
+      "name_parent": "Anime",
+      "total": 9376
+    },
+    {
+      "id_sptag": "1813151526",
+      "name_cl_sptag": "Girls Hair Brow",
+      "name_parent": "Anime",
+      "total": 13760
+    },
+    {
+      "id_sptag": "-1358769180",
+      "name_cl_sptag": "Girls Hair Pink",
+      "name_parent": "Anime",
+      "total": 5690
+    },
+    {
+      "id_sptag": "117222074",
+      "name_cl_sptag": "Girls Hats",
+      "name_parent": "Anime",
+      "total": 11965
+    },
+    {
+      "id_sptag": "-353024394",
+      "name_cl_sptag": "Girls Long Hair",
+      "name_parent": "Anime",
+      "total": 47407
+    },
+    {
+      "id_sptag": "768898453",
+      "name_cl_sptag": "Girls Scarf",
+      "name_parent": "Anime",
+      "total": 3306
+    },
+    {
+      "id_sptag": "-1230434216",
+      "name_cl_sptag": "Girls Smile",
+      "name_parent": "Anime",
+      "total": 24284
+    },
+    {
+      "id_sptag": "1541647243",
+      "name_cl_sptag": "Girls Student",
+      "name_parent": "Anime",
+      "total": 16308
+    },
+    {
+      "id_sptag": "1078827483",
+      "name_cl_sptag": "Girls Tie Bows",
+      "name_parent": "Anime",
+      "total": 61257
+    },
+    {
+      "id_sptag": "-260062140",
+      "name_cl_sptag": "Girls Uniform",
+      "name_parent": "Anime",
+      "total": 16929
+    }
+  ]
+}
