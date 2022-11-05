@@ -6,9 +6,9 @@
   "total_img": 505,
   "total_page": 2,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-555811421",
+  "hc_lt_data_img": "383107752",
   "hc_lt_nortag": "-1007659788",
-  "hc_lt_sptag": "1355739421",
+  "hc_lt_sptag": "-1424087639",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -20,43 +20,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "1477307413",
-      "hc_lt_id_sptag": "1599371354",
-      "id_img": "Crossover_648204_crop2608_120776588",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiien+ObpKI2jL6SZznPIcghrGMQ2zHS615M8gmy16J9KtpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiien+ObpKI2jL6SZznPIcghroqgmuzj0gn/6Kd33nGcO35Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1728965817",
-        "1213914829"
-      ],
-      "lt_id_sptag": [
-        "-1336551828",
-        "-1475268634",
-        "1599132939",
-        "-1787482787"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "795716792",
-      "hc_lt_id_sptag": "",
-      "id_img": "Crossover_974631_crop2608_1174955579",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicItMye68szVeM/ZTvYLiRjCWeSEhWJ1y3HdE5Fe5Oa/ZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicItMye68szVeM/ZTvYLiRjM81Jwi+xsOwFNv1K+lXNr5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-467032699",
-        "1213914829"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "1477307413",
-      "hc_lt_id_sptag": "1599371354",
+      "hc_lt_id_sptag": "1612601352",
       "id_img": "Crossover_648204_crop2608_1587573625",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifgEywGiE43DlN85uOU4kTZJkHZU25fdt6/WHvPKDIkLpVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifgEywGiE43DlN85uOU4kTZuW6RHRp4LiZQVl7uyOSYIZVy4706IhQgSYlgwrgVRHU=",
@@ -71,13 +35,32 @@
         "-1336551828",
         "-1475268634",
         "1599132939",
+        "1728965817",
         "-1787482787"
       ]
     },
     {
       "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "795716792",
+      "hc_lt_id_sptag": "-1433110098",
+      "id_img": "Crossover_974631_crop2608_1174955579",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicItMye68szVeM/ZTvYLiRjCWeSEhWJ1y3HdE5Fe5Oa/ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicItMye68szVeM/ZTvYLiRjM81Jwi+xsOwFNv1K+lXNr5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "1213914829"
+      ],
+      "lt_id_sptag": [
+        "-467032699"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "1477307413",
-      "hc_lt_id_sptag": "1599371354",
+      "hc_lt_id_sptag": "1612601352",
       "id_img": "Crossover_648204_crop2608_1229775289",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicCHphVgaqidmGYyNa1TA+BIF1ndRtM05OPchaaw5/gNZVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicCHphVgaqidmGYyNa1TA+BRjZh9oXL6SypWJHTk8Vd+JVy4706IhQgSYlgwrgVRHU=",
@@ -92,6 +75,7 @@
         "-1336551828",
         "-1475268634",
         "1599132939",
+        "1728965817",
         "-1787482787"
       ]
     },
@@ -107,6 +91,28 @@
       ],
       "list_id_nortag": [
         "1213914829"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1477307413",
+      "hc_lt_id_sptag": "1612601352",
+      "id_img": "Crossover_648204_crop2608_120776588",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiien+ObpKI2jL6SZznPIcghrGMQ2zHS615M8gmy16J9KtpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiien+ObpKI2jL6SZznPIcghroqgmuzj0gn/6Kd33nGcO35Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1728965817",
+        "1213914829"
+      ],
+      "lt_id_sptag": [
+        "-1336551828",
+        "-1475268634",
+        "1599132939",
+        "1728965817",
+        "-1787482787"
       ]
     }
   ],
@@ -132,6 +138,12 @@
   ],
   "lt_sptag": [
     {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
+    },
+    {
       "id_sptag": "-1787482787",
       "name_cl_sptag": "Chitoge Kirisaki",
       "name_parent": "Anime",
@@ -142,6 +154,12 @@
       "name_cl_sptag": "Chiyo Sakura",
       "name_parent": "Anime",
       "total": 15
+    },
+    {
+      "id_sptag": "1728965817",
+      "name_cl_sptag": "Couple",
+      "name_parent": "Anime",
+      "total": 2059
     },
     {
       "id_sptag": "1599132939",

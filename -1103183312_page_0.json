@@ -6,9 +6,9 @@
   "total_img": 3,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "1000068220",
+  "hc_lt_data_img": "-639322837",
   "hc_lt_nortag": "-1827714990",
-  "hc_lt_sptag": "678271339",
+  "hc_lt_sptag": "-239163826",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -33,6 +33,24 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1379325194",
+      "hc_lt_id_sptag": "-1433110098",
+      "id_img": "CTheMoneyOfSoulAndPossibilityControl_782207_crop2608_1432943604",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidp+pGmDG2n4JMX7J+n2Qw2EnyyeBXr+6lQtU+aqhcBv5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidp+pGmDG2n4JMX7J+n2Qw27csm+K04BA+ogR8DwW5MLJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "-1103183312"
+      ],
+      "lt_id_sptag": [
+        "-467032699"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "1507610155",
       "hc_lt_id_sptag": "753435791",
       "id_img": "CTheMoneyOfSoulAndPossibilityControl_878345_crop2608_1721681717",
@@ -51,21 +69,6 @@
         "376240968",
         "1813151526",
         "660631996"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "1379325194",
-      "hc_lt_id_sptag": "",
-      "id_img": "CTheMoneyOfSoulAndPossibilityControl_782207_crop2608_1432943604",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidp+pGmDG2n4JMX7J+n2Qw2EnyyeBXr+6lQtU+aqhcBv5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidp+pGmDG2n4JMX7J+n2Qw27csm+K04BA+ogR8DwW5MLJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-467032699",
-        "-1103183312"
       ]
     }
   ],
@@ -90,6 +93,12 @@
     }
   ],
   "lt_sptag": [
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
+    },
     {
       "id_sptag": "376240968",
       "name_cl_sptag": "Girls Eyes Blue",

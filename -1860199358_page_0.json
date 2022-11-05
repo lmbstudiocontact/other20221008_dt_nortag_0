@@ -6,9 +6,9 @@
   "total_img": 5,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-1190119235",
+  "hc_lt_data_img": "1687775212",
   "hc_lt_nortag": "-509538997",
-  "hc_lt_sptag": "-1836320828",
+  "hc_lt_sptag": "509726145",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -20,7 +20,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "817564613",
-      "hc_lt_id_sptag": "-1386376388",
+      "hc_lt_id_sptag": "79320489",
       "id_img": "BloodLad_871023_crop2608_-920196517",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif1V5Y1vahM3Ds9G23HCX+/2KsmugZFtySr6mtQgNbPLpVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif1V5Y1vahM3Ds9G23HCX+/eEJ7TPFaH9ZQnSeDh7LeapVy4706IhQgSYlgwrgVRHU=",
@@ -32,6 +32,7 @@
         "-1860199358"
       ],
       "lt_id_sptag": [
+        "-467032699",
         "-1400477168",
         "-1633517377"
       ]
@@ -39,59 +40,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "817564613",
-      "hc_lt_id_sptag": "-844604695",
-      "id_img": "BloodLad_871024_crop2608_587355292",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidGVgAn6SAsYlfYyEotYxKvUI27cFYTCF8zJwDU1s8X8JVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidGVgAn6SAsYlfYyEotYxKvKB8/XB5K69hJ1isX2+RzM5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-467032699",
-        "-1860199358"
-      ],
-      "lt_id_sptag": [
-        "-1633517377"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "817564613",
-      "hc_lt_id_sptag": "-1386376388",
-      "id_img": "BloodLad_871023_crop2608_-1924288786",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicLsi8pa7kuUUuuGCkt/fweNcbsCjrhBonSYVNKZHvrUJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicLsi8pa7kuUUuuGCkt/fwe/nydt9dtHgy1ngnGaip9k5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-467032699",
-        "-1860199358"
-      ],
-      "lt_id_sptag": [
-        "-1400477168",
-        "-1633517377"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "817564613",
-      "hc_lt_id_sptag": "",
-      "id_img": "BloodLad_750407_crop2608_958057485",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifBEIV+69IbUyLdHUz5iG7GjbNHFfK+TV2GGQxymVyl/5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifBEIV+69IbUyLdHUz5iG7GfZ6F+b8bO/wrzeAvsme+cpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-467032699",
-        "-1860199358"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "817564613",
-      "hc_lt_id_sptag": "-844604695",
+      "hc_lt_id_sptag": "1973622492",
       "id_img": "BloodLad_871022_crop2608_1867218970",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifGh6vVnshJAgKDLX5CPVVySr8sogumvgKMgb20MoWqAJVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifGh6vVnshJAgKDLX5CPVVyqRbscEGLP5Vleb6FPjQJnJVy4706IhQgSYlgwrgVRHU=",
@@ -103,6 +52,64 @@
         "-1860199358"
       ],
       "lt_id_sptag": [
+        "-467032699",
+        "-1633517377"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "817564613",
+      "hc_lt_id_sptag": "-1433110098",
+      "id_img": "BloodLad_750407_crop2608_958057485",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifBEIV+69IbUyLdHUz5iG7GjbNHFfK+TV2GGQxymVyl/5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifBEIV+69IbUyLdHUz5iG7GfZ6F+b8bO/wrzeAvsme+cpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "-1860199358"
+      ],
+      "lt_id_sptag": [
+        "-467032699"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "817564613",
+      "hc_lt_id_sptag": "1973622492",
+      "id_img": "BloodLad_871024_crop2608_587355292",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidGVgAn6SAsYlfYyEotYxKvUI27cFYTCF8zJwDU1s8X8JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidGVgAn6SAsYlfYyEotYxKvKB8/XB5K69hJ1isX2+RzM5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "-1860199358"
+      ],
+      "lt_id_sptag": [
+        "-467032699",
+        "-1633517377"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "817564613",
+      "hc_lt_id_sptag": "79320489",
+      "id_img": "BloodLad_871023_crop2608_-1924288786",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicLsi8pa7kuUUuuGCkt/fweNcbsCjrhBonSYVNKZHvrUJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicLsi8pa7kuUUuuGCkt/fwe/nydt9dtHgy1ngnGaip9k5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "-1860199358"
+      ],
+      "lt_id_sptag": [
+        "-467032699",
+        "-1400477168",
         "-1633517377"
       ]
     }
@@ -122,6 +129,12 @@
     }
   ],
   "lt_sptag": [
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
+    },
     {
       "id_sptag": "-1400477168",
       "name_cl_sptag": "Bunny Ears",

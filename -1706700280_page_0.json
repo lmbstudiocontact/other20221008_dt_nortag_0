@@ -6,9 +6,9 @@
   "total_img": 9,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "1045676785",
+  "hc_lt_data_img": "-590893149",
   "hc_lt_nortag": "-91505038",
-  "hc_lt_sptag": "-564981098",
+  "hc_lt_sptag": "2117360709",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -45,10 +45,10 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "2060220727",
-      "hc_lt_id_sptag": "-204078672",
-      "id_img": "DeathMarchkaraHajimaruIsekaiKyousoukyoku_778143_crop2608_-1514761541",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidVMSdON/3OO/F1zIpNK7NjiUVs4hFsp9chsLl9Ybe4Q5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidVMSdON/3OO/F1zIpNK7NjCZiW1kHZTAbC1EpHZKTXHJVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "2130294281",
+      "id_img": "DeathMarchkaraHajimaruIsekaiKyousoukyoku_778141_crop2608_-1216149204",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidYKm2F2akaARvhbGMMCW88S2V8qRckppp6pauJ0B31i5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidYKm2F2akaARvhbGMMCW88kJqt6Y6aCP3XOthh5lB2WZVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -57,36 +57,14 @@
         "-1182628656"
       ],
       "lt_id_sptag": [
+        "1271392973",
+        "-2017515920",
         "-1230434216",
-        "-353024394",
-        "-1092439432",
         "376240968",
-        "-1176638482",
-        "-260062140",
-        "1078827483",
+        "1846426926",
+        "-1823594757",
         "491824726",
-        "-1358769180"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "2060220727",
-      "hc_lt_id_sptag": "838391427",
-      "id_img": "DeathMarchkaraHajimaruIsekaiKyousoukyoku_934000_crop2608_213194726",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifiFE6lpws4kO/v3ayBXfzqSQuXyVHpUiiN8adHmrGskpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifiFE6lpws4kO/v3ayBXfzqkWu8MKu+zN/ehhiFK4DZ/pVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-1706700280",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "-1230434216",
-        "-353024394",
-        "376240968",
-        "-1165766878"
+        "1410951528"
       ]
     },
     {
@@ -115,6 +93,46 @@
         "-1823594757",
         "1078827483",
         "1410951528"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1683517593",
+      "hc_lt_id_sptag": "-440986498",
+      "id_img": "DeathMarchkaraHajimaruIsekaiKyousoukyoku_910153_crop2608_539884954",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidQKkPPdVHjnzjfWLQonaikt/PlWMZAmRgtAlZTHeV4b5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidQKkPPdVHjnzjfWLQonaikd1eV5JJIbKu+LxEzeVnHrpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1706700280",
+        "1728965817"
+      ],
+      "lt_id_sptag": [
+        "2079988383",
+        "1728965817"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "2060220727",
+      "hc_lt_id_sptag": "838391427",
+      "id_img": "DeathMarchkaraHajimaruIsekaiKyousoukyoku_934000_crop2608_213194726",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifiFE6lpws4kO/v3ayBXfzqSQuXyVHpUiiN8adHmrGskpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifiFE6lpws4kO/v3ayBXfzqkWu8MKu+zN/ehhiFK4DZ/pVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1706700280",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1230434216",
+        "-353024394",
+        "376240968",
+        "-1165766878"
       ]
     },
     {
@@ -158,6 +176,32 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "2060220727",
+      "hc_lt_id_sptag": "-204078672",
+      "id_img": "DeathMarchkaraHajimaruIsekaiKyousoukyoku_778143_crop2608_-1514761541",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidVMSdON/3OO/F1zIpNK7NjiUVs4hFsp9chsLl9Ybe4Q5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidVMSdON/3OO/F1zIpNK7NjCZiW1kHZTAbC1EpHZKTXHJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1706700280",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1230434216",
+        "-353024394",
+        "-1092439432",
+        "376240968",
+        "-1176638482",
+        "-260062140",
+        "1078827483",
+        "491824726",
+        "-1358769180"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "2060220727",
       "hc_lt_id_sptag": "-790160612",
       "id_img": "DeathMarchkaraHajimaruIsekaiKyousoukyoku_778143_crop2608_2067700842",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidde7BWpDR4EVmC0UXR7JxbLfoqDoziPQuTPXnHwFrx7ZVy4706IhQgSYlgwrgVRHU=",
@@ -178,49 +222,6 @@
         "1078827483",
         "491824726",
         "467732324"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "2060220727",
-      "hc_lt_id_sptag": "2130294281",
-      "id_img": "DeathMarchkaraHajimaruIsekaiKyousoukyoku_778141_crop2608_-1216149204",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidYKm2F2akaARvhbGMMCW88S2V8qRckppp6pauJ0B31i5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidYKm2F2akaARvhbGMMCW88kJqt6Y6aCP3XOthh5lB2WZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-1706700280",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "1271392973",
-        "-2017515920",
-        "-1230434216",
-        "376240968",
-        "1846426926",
-        "-1823594757",
-        "491824726",
-        "1410951528"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-1683517593",
-      "hc_lt_id_sptag": "4479124",
-      "id_img": "DeathMarchkaraHajimaruIsekaiKyousoukyoku_910153_crop2608_539884954",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidQKkPPdVHjnzjfWLQonaikt/PlWMZAmRgtAlZTHeV4b5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidQKkPPdVHjnzjfWLQonaikd1eV5JJIbKu+LxEzeVnHrpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-1706700280",
-        "1728965817"
-      ],
-      "lt_id_sptag": [
-        "2079988383"
       ]
     }
   ],
@@ -245,6 +246,12 @@
     }
   ],
   "lt_sptag": [
+    {
+      "id_sptag": "1728965817",
+      "name_cl_sptag": "Couple",
+      "name_parent": "Anime",
+      "total": 2059
+    },
     {
       "id_sptag": "-1176638482",
       "name_cl_sptag": "Dark Black",

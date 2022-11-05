@@ -20,42 +20,6 @@
     {
       "hc_lt_id_alb": "51561147",
       "hc_lt_id_nortag": "-1975710840",
-      "hc_lt_id_sptag": "-1840194958",
-      "id_img": "2017-Fittipaldi-EF7-V4-2000_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieqalOUetO3p2kVCeeuUQcwpnT2wrtxPw5HabAC9wn3kJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieqalOUetO3p2kVCeeuUQcwTs83/YXXhi5FQ9OfFIxp05Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "67508"
-      ],
-      "list_id_nortag": [
-        "-123971469"
-      ],
-      "lt_id_sptag": [
-        "-1946892195",
-        "1034147206"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "51561147",
-      "hc_lt_id_nortag": "-1975710840",
-      "hc_lt_id_sptag": "442303711",
-      "id_img": "2017-Fittipaldi-EF7-V2-2000_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifxg8rgtpPYE8x4pc3PX/MQNV86VQ7ks61bPeZTnH79i5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifxg8rgtpPYE8x4pc3PX/MQKimorD0134mhzQmeVSk2b5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "67508"
-      ],
-      "list_id_nortag": [
-        "-123971469"
-      ],
-      "lt_id_sptag": [
-        "-1946892195",
-        "1427174216"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "51561147",
-      "hc_lt_id_nortag": "-1975710840",
       "hc_lt_id_sptag": "-270394925",
       "id_img": "2017-Fittipaldi-EF7-V3-2000_crop_2_center",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif33zYObvq/OiGTDlb/0pNrD02Wm51R4jw4KyZuHH9JxpVy4706IhQgSYlgwrgVRHU=",
@@ -87,6 +51,42 @@
       "lt_id_sptag": [
         "1623687721",
         "-1946892195"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1975710840",
+      "hc_lt_id_sptag": "-1840194958",
+      "id_img": "2017-Fittipaldi-EF7-V4-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieqalOUetO3p2kVCeeuUQcwpnT2wrtxPw5HabAC9wn3kJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieqalOUetO3p2kVCeeuUQcwTs83/YXXhi5FQ9OfFIxp05Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-123971469"
+      ],
+      "lt_id_sptag": [
+        "-1946892195",
+        "1034147206"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1975710840",
+      "hc_lt_id_sptag": "442303711",
+      "id_img": "2017-Fittipaldi-EF7-V2-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifxg8rgtpPYE8x4pc3PX/MQNV86VQ7ks61bPeZTnH79i5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifxg8rgtpPYE8x4pc3PX/MQKimorD0134mhzQmeVSk2b5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-123971469"
+      ],
+      "lt_id_sptag": [
+        "-1946892195",
+        "1427174216"
       ]
     }
   ],

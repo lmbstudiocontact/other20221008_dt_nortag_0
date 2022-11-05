@@ -6,9 +6,9 @@
   "total_img": 2,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-328323710",
+  "hc_lt_data_img": "848626386",
   "hc_lt_nortag": "458915480",
-  "hc_lt_sptag": "",
+  "hc_lt_sptag": "1999154515",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -19,23 +19,8 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-534319808",
-      "hc_lt_id_sptag": "",
-      "id_img": "DevilSurvivor2TheAnimation_938004_crop2608_-515893136",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiietds8bdC3nlPH8ukSXzPjfWzkGbN5vG5qETxHLvxlAZZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiietds8bdC3nlPH8ukSXzPjf+cwCawsrFOqP4fsslL9xyJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-247332802",
-        "-467032699"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "318950979",
-      "hc_lt_id_sptag": "",
+      "hc_lt_id_sptag": "-579839311",
       "id_img": "DevilSurvivor2TheAnimation_704738_crop2608_-679603557",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieKKUpqUzA74Gtz/GbsN9+ggNnX2IKtM0qtMUaVSnyIipVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieKKUpqUzA74Gtz/GbsN9+gEOMyWEkYpb8AN1X624g8EpVy4706IhQgSYlgwrgVRHU=",
@@ -45,6 +30,27 @@
       "list_id_nortag": [
         "-247332802",
         "1728965817"
+      ],
+      "lt_id_sptag": [
+        "1728965817"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-534319808",
+      "hc_lt_id_sptag": "-1433110098",
+      "id_img": "DevilSurvivor2TheAnimation_938004_crop2608_-515893136",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiietds8bdC3nlPH8ukSXzPjfWzkGbN5vG5qETxHLvxlAZZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiietds8bdC3nlPH8ukSXzPjf+cwCawsrFOqP4fsslL9xyJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-247332802",
+        "-467032699"
+      ],
+      "lt_id_sptag": [
+        "-467032699"
       ]
     }
   ],
@@ -66,6 +72,20 @@
       "name_cl_nortag": "Devil Survivor 2 The Animation",
       "total_img": 2,
       "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
+    },
+    {
+      "id_sptag": "1728965817",
+      "name_cl_sptag": "Couple",
+      "name_parent": "Anime",
+      "total": 2059
     }
   ]
 }

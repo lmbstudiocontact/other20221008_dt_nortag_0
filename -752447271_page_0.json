@@ -6,9 +6,9 @@
   "total_img": 6,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-355591254",
+  "hc_lt_data_img": "245073622",
   "hc_lt_nortag": "-1704899614",
-  "hc_lt_sptag": "-1737421060",
+  "hc_lt_sptag": "-532765505",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -17,6 +17,29 @@
     }
   ],
   "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "2069128615",
+      "hc_lt_id_sptag": "1107542863",
+      "id_img": "GangRoadJoker_672753_crop2608_-1296255421",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidp3FQdrox6vnoC2Pg328IfOAiSHd8MMJ1HtptihxoeQ5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidp3FQdrox6vnoC2Pg328IfLcMQ156BdH8WlhMUfpcsYZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-752447271",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1937610099",
+        "-1230434216",
+        "376240968",
+        "-1823594757",
+        "1078827483",
+        "1410951528"
+      ]
+    },
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "2069128615",
@@ -43,11 +66,31 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1512055282",
+      "hc_lt_id_sptag": "1657949371",
+      "id_img": "GangRoadJoker_966352_crop2608_990541546",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie02cKlG5rwR11zQ4fN4w4r13xhyxbN+A4TEXyNyoC8sZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie02cKlG5rwR11zQ4fN4w4rBSfmaAkKB+eajikQtzYsv5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "-752447271"
+      ],
+      "lt_id_sptag": [
+        "-467032699",
+        "1956034203",
+        "-1216236529"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "2069128615",
-      "hc_lt_id_sptag": "-2028083681",
-      "id_img": "GangRoadJoker_854892_crop2608_-691964569",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiciDZ7a13R7okpQErC1+oe7D1PJ+TrF0TIxd4VYuvE2QZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiciDZ7a13R7okpQErC1+oe7HAC5VkSGQ8joHnkUNuz+JZVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "474234292",
+      "id_img": "GangRoadJoker_854892_crop2608_2143180171",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidLnKDfq3qlkVGSXU3XjorJRAeZdJAEAjoRi03Sz8WuG5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidLnKDfq3qlkVGSXU3XjorJOF+D/8swEr7QeOGBU494eZVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -62,6 +105,7 @@
         "376240968",
         "-1686571485",
         "-260062140",
+        "-1882261033",
         "1078827483"
       ]
     },
@@ -90,53 +134,11 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-1512055282",
-      "hc_lt_id_sptag": "192252494",
-      "id_img": "GangRoadJoker_966352_crop2608_990541546",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie02cKlG5rwR11zQ4fN4w4r13xhyxbN+A4TEXyNyoC8sZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie02cKlG5rwR11zQ4fN4w4rBSfmaAkKB+eajikQtzYsv5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-467032699",
-        "-752447271"
-      ],
-      "lt_id_sptag": [
-        "1956034203",
-        "-1216236529"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "2069128615",
-      "hc_lt_id_sptag": "1107542863",
-      "id_img": "GangRoadJoker_672753_crop2608_-1296255421",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidp3FQdrox6vnoC2Pg328IfOAiSHd8MMJ1HtptihxoeQ5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidp3FQdrox6vnoC2Pg328IfLcMQ156BdH8WlhMUfpcsYZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-752447271",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "-1937610099",
-        "-1230434216",
-        "376240968",
-        "-1823594757",
-        "1078827483",
-        "1410951528"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "2069128615",
-      "hc_lt_id_sptag": "474234292",
-      "id_img": "GangRoadJoker_854892_crop2608_2143180171",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidLnKDfq3qlkVGSXU3XjorJRAeZdJAEAjoRi03Sz8WuG5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidLnKDfq3qlkVGSXU3XjorJOF+D/8swEr7QeOGBU494eZVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "-2028083681",
+      "id_img": "GangRoadJoker_854892_crop2608_-691964569",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiciDZ7a13R7okpQErC1+oe7D1PJ+TrF0TIxd4VYuvE2QZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiciDZ7a13R7okpQErC1+oe7HAC5VkSGQ8joHnkUNuz+JZVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -151,7 +153,6 @@
         "376240968",
         "-1686571485",
         "-260062140",
-        "-1882261033",
         "1078827483"
       ]
     }
@@ -182,6 +183,12 @@
       "name_cl_sptag": "Boy Sad",
       "name_parent": "Anime",
       "total": 1551
+    },
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
     },
     {
       "id_sptag": "376240968",
